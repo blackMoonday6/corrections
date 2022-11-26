@@ -1,12 +1,5 @@
 # corrections
 code correction:
-# Visio-soft
-## _the software developed by Falku to in order to make your system see!_
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://falku-robotics.com)
-
-![Alt text](/resources/image001.png?raw=true "Falku")
-
 this repo contains the code we use as a correction Code. 
 
 - Camera debugging code
